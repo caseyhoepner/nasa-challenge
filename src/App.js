@@ -16,6 +16,7 @@ class App extends Component {
   componentDidMount() {
     const dataCleaner = new CountryData();
     const camps = dataCleaner.camps
+    console.log(camps[0].population.value)
     this.setState({ camps })
   }
 
@@ -23,7 +24,7 @@ class App extends Component {
     const { camps } = this.state
     return (
       <div className="App">
-        <Form />
+        <Form camps={camps}/>
         <CardContainer camps={camps} />
       </div>
     );
