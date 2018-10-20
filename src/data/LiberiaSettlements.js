@@ -1,4 +1,4 @@
-module.exports = [
+const liberiaData = [
     {
         "name": "PTP Ref. Camp",
         "country": "Liberia",
@@ -360,3 +360,5 @@ module.exports = [
         "instance_id": "liberia"
     }
 ]
+
+export default liberiaData;
