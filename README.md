@@ -16,8 +16,8 @@ JavaScript, React.js, Ruby on Rails, UNHCR / Earthdata / MODIS & VIIRS APIs
 
 ### Wireframes
 
-![](https://ibb.co/nJdk8A)
-![](https://ibb.co/h0VyTA)
+[](https://ibb.co/nJdk8A)
+[](https://ibb.co/h0VyTA)
 
 ### Next Steps
 
