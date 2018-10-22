@@ -16,8 +16,8 @@ JavaScript, React.js, Ruby on Rails, UNHCR / Earthdata / MODIS & VIIRS APIs
 
 ### Wireframes
 
-[](https://ibb.co/nJdk8A)
-[](https://ibb.co/h0VyTA)
+<a href="https://ibb.co/nJdk8A"><img src="https://preview.ibb.co/ivH1gV/Settled-In-Responsive-Wireframe.png" alt="Settled-In-Responsive-Wireframe" border="0"></a>
+<a href="https://ibb.co/h0VyTA"><img src="https://preview.ibb.co/fLBSMV/Settled-In-Wireframe.png" alt="Settled-In-Wireframe" border="0"></a><br /><a target='_blank' href='https://aluminumsulfate.net/aluminum-hydroxide'>aluminum hydroxide powder</a><br />
 
 ### Next Steps
 
