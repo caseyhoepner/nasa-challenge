@@ -1,6 +1,10 @@
 # Settled In
 
-With this application, we hope to address the perpetual lack of resources which exists in refugee settlements.
+## The Turing 'Team: Team' was thrilled to participate in the 2018 Space Apps NASA hackathon! 
+
+### We chose the "Land where Displaced People Settle" challenge.
+
+With our application, Settled In, we hope to address the perpetual lack of resources which exists in refugee settlements.
 
 The MODIS API and VIIRS datasets can inform organizations and individuals who want to help.
 
