@@ -1,4 +1,4 @@
-### Settled In
+# Settled In
 
 With this application, we hope to address the perpetual lack of resources which exists in refugee settlements.
 
@@ -10,16 +10,21 @@ informed decisions, work alongside camps to reduce waste, and provide relevant r
 
 Our dream is that this data analysis tool humanizes the experienced of displaced people.
 
-### Tech Stack
+## Tech Stack
 
 JavaScript, React.js, Ruby on Rails, UNHCR / Earthdata / MODIS & VIIRS APIs
 
-### Wireframes
+## Wireframes
+
+### Responsive:
 
 <a href="https://ibb.co/nJdk8A"><img src="https://preview.ibb.co/ivH1gV/Settled-In-Responsive-Wireframe.png" alt="Settled-In-Responsive-Wireframe" border="0"></a>
-<a href="https://ibb.co/h0VyTA"><img src="https://preview.ibb.co/fLBSMV/Settled-In-Wireframe.png" alt="Settled-In-Wireframe" border="0"></a><br /><a target='_blank' href='https://aluminumsulfate.net/aluminum-hydroxide'>aluminum hydroxide powder</a><br />
 
-### Next Steps
+### Web:
+
+<a href="https://ibb.co/h0VyTA"><img src="https://preview.ibb.co/fLBSMV/Settled-In-Wireframe.png" alt="Settled-In-Wireframe" border="0"><br />
+
+## Next Steps
 
 * consume the UNHCR API to find settlement camp locations (API was temporarily unavailable as of 10-20-2018)
 
@@ -29,7 +34,7 @@ JavaScript, React.js, Ruby on Rails, UNHCR / Earthdata / MODIS & VIIRS APIs
 
 * implement data visualizations using a tool like processing or D3
 
-### Contributing
+## Contributing
 
 Fork and clone this repo to interact with our app in the development stages.
 
