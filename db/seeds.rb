@@ -1,7 +1,8 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
-#
-# Examples:
-#
-#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
+Settlement.create(name: 'Kutupalong Settlement', lat: 21.2153522, lon: 92.172192, region: 'Coxs Bazaar', country: 'Bangladesh', population: 886778)
+Settlement.create(name: 'Bidi Bidi Settlement', lat: 3.5222462, lon: 31.3337782, region: 'Yumbe', country: 'Uganda', population: 285000)
+Settlement.create(name: 'Dadaab Refugee Complex Settlement', lat: 0.1044344, lon: 40.3050372, region: 'Dadaab', country: 'Kenya', population: 235269)
+Settlement.create(name: 'Jabalya Settlement', lat: 31.5301972, lon: 34.475033, region: 'Gaza', country: 'Israel', population: 119486)
+
+
+# Mock data based on figures from https://www.raptim.org/largest-refugee-camps-in-2018/
+
