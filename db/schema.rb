@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_10_20_184637) do
+ActiveRecord::Schema.define(version: 2018_10_28_212603) do
 
   create_table "settlements", force: :cascade do |t|
     t.string "name"
@@ -21,6 +21,21 @@ ActiveRecord::Schema.define(version: 2018_10_20_184637) do
     t.integer "population"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+  end
+
+  create_table "water_conditions", force: :cascade do |t|
+    t.integer "settlement_id"
+    t.float "cons_use"
+    t.string "baseline_stress"
+    t.string "drought_severity"
+    t.string "flood_occurence"
+    t.float "total_withdrawl"
+    t.float "blue_water"
+    t.string "variability"
+    t.string "access"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["settlement_id"], name: "index_water_conditions_on_settlement_id"
   end
 
 end
