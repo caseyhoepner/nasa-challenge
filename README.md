@@ -1,6 +1,6 @@
 # Settled In
 
-## The Turing 'Team: Team' was thrilled to participate in the 2018 Space Apps NASA hackathon! 
+## The Turing 'Team: Team' was thrilled to participate in the 2018 Space Apps NASA hackathon!
 
 ### We chose the "Land where Displaced People Settle" challenge.
 
@@ -37,6 +37,12 @@ JavaScript, React.js, Ruby on Rails, UNHCR / Earthdata / MODIS & VIIRS APIs
 * convert app styling into a responsive layout for various screen sizes
 
 * implement data visualizations using a tool like processing or D3
+
+* implement IBM cloud streaming analytics to allow live data updates to be made by on-site persons and integrated into data analytics as a whole
+
+* implement IBM Cloud Compare Comply to parse water-related data from World Resources Institute and similar organizations
+
+* implement administrative features to integrate with IBM streaming analytics (create and update current conditions)
 
 ## Contributing
 
