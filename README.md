@@ -20,7 +20,7 @@ JavaScript, React.js, Ruby on Rails, UNHCR / Earthdata / MODIS & VIIRS APIs
 
 ## Data
 
-Currently, mock data is seeded based on real data sets:
+Currently, mock data is seeded based on data from raptim.org and the World Resources Institute:
 
 ```
 
@@ -29,7 +29,6 @@ Settlement.create(name: 'Bidi Bidi Settlement', lat: 3.5222462, lon: 31.3337782,
 Settlement.create(name: 'Dadaab Refugee Complex Settlement', lat: 0.1044344, lon: 40.3050372, region: 'Dadaab', country: 'Kenya', population: 235269)
 Settlement.create(name: 'Jabalya Settlement', lat: 31.5301972, lon: 34.475033, region: 'Gaza', country: 'Israel', population: 119486)
 
-Mock data based on figures from https://www.raptim.org/largest-refugee-camps-in-2018/
 
 WaterCondition.create(settlement_id: Settlement.first.id, 
                       cons_use: 15, baseline_stress: 'Low', 
@@ -42,8 +41,6 @@ WaterCondition.create(settlement_id: Settlement.last.id,
                       drought_severity: 'Medium', flood_occurence: 'High',
                       total_withdrawl: 10, blue_water: 100,
                       variability: 'Medium', access: 'Medium')
-
-Mock conditions data based on figures from World Resources Institute
 
 ```
 
