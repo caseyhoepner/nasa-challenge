@@ -18,30 +18,37 @@ Our dream is that this data analysis tool humanizes the experienced of displaced
 
 JavaScript, React.js, Ruby on Rails, UNHCR / Earthdata / MODIS & VIIRS APIs
 
-## Wireframes, Iteration 0
+# Wireframes, Iteration 0
 
-### Responsive:
+## Responsive:
 
 <a href="https://ibb.co/nJdk8A"><img src="https://preview.ibb.co/ivH1gV/Settled-In-Responsive-Wireframe.png" alt="Settled-In-Responsive-Wireframe" border="0"></a>
 
-### Web:
+## Web:
 
 <a href="https://ibb.co/h0VyTA"><img src="https://preview.ibb.co/fLBSMV/Settled-In-Wireframe.png" alt="Settled-In-Wireframe" border="0"><br />
   
 
-## Wireframes, Iteration 1
+# Wireframes, Iteration 1
 
-### Responsive:
+## Responsive:
+
 
 <a href="https://ibb.co/dYGa5q"><img src="https://preview.ibb.co/jqc4yA/Home-Screen-2x.png" alt="Home-Screen-2x" border="0"></a>
 
-### Web:
+
+
+## Web:
+
 
 <a href="https://ibb.co/mjpv5q"><img src="https://preview.ibb.co/c7qPyA/Clean-Water-Screen-2x-1.png" alt="Clean-Water-Screen-2x-1" border="0"></a>
 
+
 <a href="https://ibb.co/bBH4yA"><img src="https://preview.ibb.co/haMWdA/Clean-Water-Screen-2x.png" alt="Clean-Water-Screen-2x" border="0"></a>
 
+
 <a href="https://ibb.co/fcbWdA"><img src="https://preview.ibb.co/fWcF5q/Settlement-Example-Screen-2x.png" alt="Settlement-Example-Screen-2x" border="0"></a>
+
 
 ## Next Steps
 
