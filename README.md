@@ -1,6 +1,6 @@
 # Settled In
 
-## The Turing 'Team: Team' was thrilled to participate in the 2018 Space Apps NASA hackathon! 
+## The 'Turing Team: Phone Home' was thrilled to participate in the 2018 Space Apps NASA hackathon! 
 
 ### We chose the "Land where Displaced People Settle" challenge.
 
